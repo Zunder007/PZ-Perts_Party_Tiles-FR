@@ -1,0 +1,6 @@
+Tooltip_FR = {
+
+Tooltip_OverlookAxe = "ICI JOHNNY!",
+Tooltip_BoringBook = "Édition mise à jour 1993!",
+
+}
