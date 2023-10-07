@@ -1,0 +1,10 @@
+ItemName_FR = {
+	ItemName_Base.AZZK_pistol = "Pistolet AZZK",
+	ItemName_Base.BatLeth = "Bat'leth",
+	ItemName_Base.CrazedRamblings2 = "Randonnées folles",
+	ItemName_Base.CrazedRamblings3 = "Randonnées folles",
+	ItemName_Base.CrazedRamblings4 = "Randonnées folles",
+	ItemName_Base.LegalBook = "Livre juridique",
+	ItemName_Base.MekLeth = "Mek'leth",
+	ItemName_Base.OverlookFireAxe = "Hache",
+}
